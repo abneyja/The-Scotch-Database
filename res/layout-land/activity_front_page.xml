@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FrontPage">
+
+
+    <!--<ImageView
+        android:id="@+id/image_0"
+        android:layout_width="414dp"
+        android:layout_height="203dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:src="@drawable/games"
+        app:layout_constraintVertical_bias="0.0" />-->
+
+    <!--<ImageView
+        android:id="@+id/image_0"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:scaleType="fitXY"
+        android:src="@drawable/lw"
+        app:layout_constraintVertical_bias="0.0" />
+-->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/rick_animation_land"
+        android:scaleType="fitXY"
+        android:layout_marginBottom="0dp" />
+
+
+
+    <!--<LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnRun"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="start"
+            android:textColor="#FFF"
+            android:textSize="25sp"
+            android:background="#5E1E0D"/>
+
+    </LinearLayout>-->
+
+    <!--<ImageView
+        android:id="@+id/image_1"
+        android:layout_width="414dp"
+        android:layout_height="203dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:src="@drawable/w"
+        android:alpha="0" />-->
+
+
+</RelativeLayout>

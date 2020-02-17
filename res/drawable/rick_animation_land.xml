@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/imgl_0"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_1"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_2"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_3"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_4"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_5"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_6"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_7"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_8"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_9"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_10"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_11"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_12"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_13"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_14"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_15"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_16"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_17"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_18"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_19"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_20"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_21"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_22"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_23"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_24"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_25"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/imgl_26"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/img_27"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/img_28"
+        android:duration="50" />
+
+
+</animation-list>
